@@ -1,0 +1,40 @@
+# main
+doc/
+backup/
+.vscode/
+# storage subfolers
+/storage/*
+!/storage/.gitignore
+!/storage/app
+!/storage/app/public
+!/storage/debugbar
+!/storage/framework
+!/storage/framework/cache
+!/storage/framework/sessions
+!/storage/framework/testing
+!/storage/framework/views
+!/storage/logs
+# miscellaneous
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.editorconfig
+.env.example
+.env
+.env.backup
+.styleci.yml
+artisan
+composer.json
+composer.lock
+package.json
+package-lock.json
+phpunit.xml
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+*.sqlite
+*.sqlite-journal

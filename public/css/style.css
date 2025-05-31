@@ -1,0 +1,23 @@
+body{
+    background-color: #F6E3DF ;
+    color: #333333;
+    margin: 0px;
+}
+
+header{
+    max-width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 98%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
