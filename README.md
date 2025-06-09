@@ -8,7 +8,7 @@ app/
 * Http/
     * **Controller**/ -> contains the **database connection** (**MySQL**) for each funcion inside each class (for example, the CRUD).
     * Middleware/     -> check the permissions.
-* ***Model** files for each **class** that extends it.
+* **Model** files for each **class** that extends it.
    
 
 database/ -> database information like seeds (to create the db) and migrations.
